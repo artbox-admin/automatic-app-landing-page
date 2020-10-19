@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Save All The Artwork
+app_description                           : For the minimalist parent
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,15 +35,15 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Made by parents, for parents
-    description                           : Designed specifically for parents with artistic children
+    description                           : We get you. Keep those special projects while keeping a de-cluttered house.
     fontawesome_icon_name                 : user-friends
     
   - title                                 : iPhone Exclusive
-    description                           : Built specifically for iOS
+    description                           : Built specifically for iOS.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
-    description                           : Your data never leaves your device unless you share entries with a 3rd party app.
+    description                           : Your data never leaves your device unless you share with 3rd party apps.
     fontawesome_icon_name                 : lock
 
   - title                                 : Intuitive Design
@@ -51,15 +51,15 @@ features                                  :
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Unlimited Users
-    description                           : Create an unlimited amount of user profiles
+    description                           : Create an unlimited amount of user profiles.
     fontawesome_icon_name                 : user-tag
   
-  - title                                 : Find Your Favorites
-    description                           : Easily add entries to favorites for quick access
+  - title                                 : Favorites View
+    description                           : Not all projects are created equal -- easily find your favorites.
     fontawesome_icon_name                 : star
 
   - title                                 : No Ads
-    description                           : Enjoy adding and browing projects without annoying ads
+    description                           : Enjoy adding and browing projects without annoying ads.
     fontawesome_icon_name                 : ad
 
   - title                                 : No Subscription
