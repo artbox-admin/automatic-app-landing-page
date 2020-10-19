@@ -11,9 +11,9 @@ Thanks for coming along on the Artbox journey!
 
 ### `Latest`
 # **Version 1.0.7**
-• Fixed a bug that cleared a project's text box when adding Emojis
-• Numerous user experience tweaks & updates
-• Under the hood improvements
+• Fixed a bug that cleared a project's text box when adding Emojis 
+• Numerous user experience tweaks & updates 
+• Under the hood improvements 
 
 <br>
 
@@ -38,14 +38,14 @@ This update is simply some minor housecleaning... don't mind me!
 <br>
 
 ## **Version 1.0.2**
-• You can now update a user's profile picture from your Photo Library
-• Fixed an issue that could cause user profiles to load slowly on the Home tab
+• You can now update a user's profile picture from your Photo Library 
+• Fixed an issue that could cause user profiles to load slowly on the Home tab 
 
 <br>
 
 ## **Version 1.0.1**
-• Fixed some spacing isusues on the Welcome screen
-• Fixed an issue dismissing the camera when adding a new user
+• Fixed some spacing isusues on the Welcome screen 
+• Fixed an issue dismissing the camera when adding a new user 
 
 <br>
 
