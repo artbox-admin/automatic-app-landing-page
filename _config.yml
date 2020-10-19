@@ -50,7 +50,7 @@ features                                  :
     description                           : Built for ease of use and simple navigation.
     fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : Unlimited Users
+  - title                                 : Unlimited Profiles
     description                           : Create an unlimited amount of user profiles.
     fontawesome_icon_name                 : user-tag
   
@@ -85,7 +85,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : blue                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
