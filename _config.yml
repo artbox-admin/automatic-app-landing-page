@@ -34,40 +34,40 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Made by parents, for parents
+    description                           : Designed specifically for parents with artistic children
+    fontawesome_icon_name                 : user-friends
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : iPhone Exclusive
+    description                           : Built specifically for iOS
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Privacy First
+    description                           : Your data never leaves your device unless you share entries with a 3rd party app.
+    fontawesome_icon_name                 : lock
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Intuitive Design
+    description                           : Built for ease of use and simple navigation.
+    fontawesome_icon_name                 : thumbs-up
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Unlimited Users
+    description                           : Create an unlimited amount of user profiles
+    fontawesome_icon_name                 : user-tag
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Find Your Favorites
+    description                           : Easily add entries to favorites for quick access
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : No Ads
+    description                           : Enjoy adding and browing projects without annoying ads
+    fontawesome_icon_name                 : ad
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : No Subscription
+    description                           : Pay once and call it a day.
+    fontawesome_icon_name                 : credit-card
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : No In App Purchases
+    description                           : One time purchase unlocks all features up front.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
