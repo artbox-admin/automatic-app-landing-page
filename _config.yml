@@ -35,11 +35,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Made by parents, for parents
-    description                           : We get you. Keep those special projects while keeping a de-cluttered house.
+    description                           : We get you -- keep those special projects while keeping a de-cluttered house.
     fontawesome_icon_name                 : user-friends
     
   - title                                 : iPhone Exclusive
-    description                           : Built specifically for iOS.
+    description                           : Built specifically for iOS
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : No Ads
-    description                           : Enjoy adding and browsing projects without annoying ads.
+    description                           : Enjoy adding and browsing projects without disruptive ads.
     fontawesome_icon_name                 : ad
 
   - title                                 : No Subscription
