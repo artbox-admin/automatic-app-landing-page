@@ -12,6 +12,11 @@ Artbox is just what you've been looking for--a convenient and refreshing way to 
 
 ![](/assets/artbox-coverflow.png)<br><br>
 
+Artbox features a clean, simple, and refreshing user experience. With a separate profile for each child, it's easy to add add new entries and view projects. 
+Use the Gallery View to browse all submitted artwork and sort by favorites.
+
+Add a description of each art piece and record the date it was created. Artbox will automatically display your child's age from when their masterpiece was made.
+
 ### Features<br>
 #### Clean Interface<br>
 Artbox features a simple, minimalistic design that's intuitive and refreshing to use. Browse your children's artwork by text or photo. Filter by your favorites, or search for creations by keyword. 
