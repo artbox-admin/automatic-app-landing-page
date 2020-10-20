@@ -18,22 +18,22 @@ Thanks for coming along on the Artbox journey!
 <br>
 
 ## **Version 1.0.6**
-Bug fixes and improvements to make Artbox even better for you!
+• Bug fixes and improvements to make Artbox even better for you!
 
 <br>
 
 ## **Version 1.0.5**
-Added a confirmation dialog when a new project is successfully added
+• Added a confirmation dialog when a new project is successfully added
 
 <br>
 
 ## **Version 1.0.4**
-Bug fixes and performance improvements
+• Bug fixes and performance improvements
 
 <br>
 
 ## **Version 1.0.3**
-This update is simply some minor housecleaning... don't mind me!
+• This update is simply some minor housecleaning... don't mind me!
 
 <br>
 
