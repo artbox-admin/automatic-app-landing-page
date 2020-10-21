@@ -12,6 +12,7 @@ include_in_header: false
     Your email:
     <input type="text" name="_replyto">
   </label>
+  <br>
   <label>
     Your message:
     <textarea name="message"></textarea>
