@@ -10,7 +10,24 @@ Thanks for coming along on the Artbox journey!
 <br>
 
 ### `Latest`
-# **Version 1.0.7**
+# **Version 1.1.0**
+Version 1.1 brings an improved user experience:<br>
+• Tap on a profile to immediately view that user's projects<br>
+• The new profile view hides away infrequent options, accessible in a new settings icon<br>
+
+## **Version 1.0.8**
+NEW <br>
+• Added some minor animations to smooth out navigation <br>
+• Added Gallery View Tips for when a user is added but no projects exist <br>
+• Added Favorites View Tips for when no projects have been favorited
+<br>
+FIXES<br>
+• Fixed a bug causing review prompt when viewing favorites<br>
+• Fixed a graphical bug in the Add User screen<br>
+• Improved Search experience in the Gallery View<br>
+• Cleaned up some code under the hood
+
+## **Version 1.0.7**
 • Fixed a bug that cleared a project's text box when adding Emojis<br>
 • Numerous user experience tweaks & updates<br>
 • Under the hood improvements
