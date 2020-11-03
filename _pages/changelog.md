@@ -10,7 +10,11 @@ Thanks for coming along on the Artbox journey!
 <br>
 
 ### `Latest`
-# **Version 1.1.0**
+# **Version 1.2**
+• Added animations to help new Artbox users get started <br>
+• Added a short vibration during profile removal warning<br>
+
+## **Version 1.1.0**
 Version 1.1 brings an improved user experience:<br>
 • Tap on a profile to immediately view that user's projects<br>
 • The new profile view hides away infrequent options, accessible in a new settings icon<br>
