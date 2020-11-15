@@ -66,9 +66,9 @@ features                                  :
     description                           : Pay once and call it a day.
     fontawesome_icon_name                 : credit-card
 
-  - title                                 : No In App Purchases
-    description                           : One time purchase unlocks all features up front.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : In-App Dark Mode
+    description                           : Turn off the lights with the gorgeous dark mode inside Settings
+    fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
