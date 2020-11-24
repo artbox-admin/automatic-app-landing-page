@@ -11,6 +11,43 @@ Thanks for coming along on the Artbox journey!
 
 ### `Latest`
 # **Version 1.2**
+Hi there! This update brings some exciting improvements to the app, including an all-new option for multiple pictures per project. Details below!
+
+#### Big News
+
+• Updated Project View • <br>
+Now when viewing your projects, you'll notice the "Favorites" button has moved to the left, and a new Meatballs Menu (horizontal ellipsis) is on the right. This menu now holds the Delete and Edit operations for the post. <br>
+
+• Updated Edit Mode • <br>
+When viewing a post, you can get to Edit Mode by tapping on the Meatball Menu and choosing Edit. Save changes by tapping on the checkmark, or discard and exit Edit Mode by tapping on the X. To edit the text, simply tap into the textbox and add your text, then scroll up or down to dismiss the keyboard. To update in image, tap on the picture to update and take a new photo with the camera. To change the project date, keep reading! <br>
+
+• Date Edit • <br>
+You can now edit a saved project's date. When viewing a post, tap the Meatball Menu and tap Edit to enter Edit Mode. From here you can tap on the date in the red box to set a new project date. Be sure to tap "Confirm" and then the new Checkmark to save.<br>
+
+• Option to add up to 5 pictures per post via add-on • <br>
+Today, Artbox is fully-featured with your initial download, allowing you to add an unlimited number of profiles and projects, edit profiles and posts, and backup photos taken within the app to your Photo Library. 
+Some projects, however, can't be fully captured with only a single image. Drawings can be two-sided, sculptures need viewing from multiple angles, and chalk can take up an entire sidewalk. <br>
+
+Add-ons extend the app's utility beyond the incredible list of default features. Today, I'm excited to announce that you can now enable multiple pictures per post (up to 5). To add multiple pictures to a post, unlock the add-on from Settings. When creating a new post, tap the newly added "Plus" sign to include additional images, either from your camera or from your Photo Library. 
+NOTE: the Gallery view will show only the primary (first) picture of each post. <br>
+
+You can find this In-App Purchase option by tapping "Manage Add-ons" in the Settings tab<br>
+
+#### NOT AS BIG NEWS
+
+• Removed the following unnecessary local notifications: <br>
+   - When adding/removing favorites<br>
+   - When a project has been saved<br>
+• Corrected some minor graphical spacing issues<br>
+• Added a Turtle imprint behind the Date in posts<br>
+
+#### RECENT NEWS
+
+• New Posts default to the current date
+• Revamped Dark Theme
+• Improved object spacing
+
+## **Version 1.2**
 • Added animations to help new Artbox users get started <br>
 • Added a short vibration during profile removal warning<br>
 
