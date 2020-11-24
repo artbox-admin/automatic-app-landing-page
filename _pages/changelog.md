@@ -10,10 +10,10 @@ Thanks for coming along on the Artbox journey!
 <br>
 
 ### `Latest`
-# **Version 1.2**
+# **Version 1.3**
 Hi there! This update brings some exciting improvements to the app, including an all-new option for multiple pictures per project. Details below!
 
-#### Big News
+#### BIG NEWS
 
 • Updated Project View • <br>
 Now when viewing your projects, you'll notice the "Favorites" button has moved to the left, and a new Meatballs Menu (horizontal ellipsis) is on the right. This menu now holds the Delete and Edit operations for the post. <br>
@@ -35,17 +35,17 @@ You can find this In-App Purchase option by tapping "Manage Add-ons" in the Sett
 
 #### NOT AS BIG NEWS
 
-• Removed the following unnecessary local notifications: <br>
-   - When adding/removing favorites<br>
-   - When a project has been saved<br>
+• Removed the following unnecessary local notifications:
+   - When adding/removing favorites
+   - When a project has been saved
 • Corrected some minor graphical spacing issues<br>
 • Added a Turtle imprint behind the Date in posts<br>
 
 #### RECENT NEWS
 
-• New Posts default to the current date
-• Revamped Dark Theme
-• Improved object spacing
+• New Posts default to the current date<br>
+• Revamped Dark Theme<br>
+• Improved object spacing<br>
 
 ## **Version 1.2**
 • Added animations to help new Artbox users get started <br>
