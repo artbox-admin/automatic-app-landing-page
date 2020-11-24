@@ -36,9 +36,9 @@ You can find this In-App Purchase option by tapping "Manage Add-ons" in the Sett
 #### NOT AS BIG NEWS
 
 * Removed the following unnecessary local notifications:
-* When adding/removing favorites
+   * When adding/removing favorites
    * When a project has been saved
-   * Corrected some minor graphical spacing issues<br>
+* Corrected some minor graphical spacing issues<br>
 * Added a Turtle imprint behind the Date in posts<br>
 
 #### RECENT NEWS
