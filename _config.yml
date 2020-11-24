@@ -67,7 +67,7 @@ features                                  :
     fontawesome_icon_name                 : credit-card
 
   - title                                 : In-App Dark Mode
-    description                           : Turn off the lights with the gorgeous dark mode inside Settings
+    description                           : Turn off the lights with the gorgeous dark mode inside Settings.
     fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
