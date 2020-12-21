@@ -9,7 +9,15 @@ Thanks for coming along on the Artbox journey!
 
 <br>
 
-### `Latest`
+### `Latest Patch`
+# **Version 1.3.1**
+• NEW: Fresh header design when viewing a profile. Now includes the total number of projects for that person. When viewing a profile, tap on the profile picture to make changes.<br>
+• IMPROVED: When editing a post, double-tap the image(s) to edit. This helps avoid accidental edit prompts from the previous single-tap implementation<br>
+• IMPROVED: Minor tweaks and adjustments throughout the app (new header logo, button spacing, text edits, etc)<br>
+• IMPROVED: Updated first-use experience<br>
+• FIXED: Corrected some Dark-Theme text in the "Manage Add-ons" screen<br>
+
+### `Latest Major Release`
 # **Version 1.3**
 Hi there! This update brings some exciting improvements to the app, including an all-new option for multiple pictures per project. Details below!
 
@@ -41,7 +49,7 @@ You can find this In-App Purchase option by tapping "Manage Add-ons" in the Sett
 * Corrected some minor graphical spacing issues<br>
 * Added a Turtle imprint behind the Date in posts<br>
 
-#### RECENT NEWS
+#### Latest
 
 • New Posts default to the current date<br>
 • Revamped Dark Theme<br>
