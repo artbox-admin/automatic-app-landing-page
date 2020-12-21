@@ -54,7 +54,8 @@ You can find this In-App Purchase option by tapping "Manage Add-ons" in the Sett
 • New Posts default to the current date<br>
 • Revamped Dark Theme<br>
 • Improved object spacing<br>
-
+<br>
+<br>
 ### `Version History`
 ## **Version 1.2**
 • Added animations to help new Artbox users get started <br>
