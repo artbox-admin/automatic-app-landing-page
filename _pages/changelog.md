@@ -49,12 +49,13 @@ You can find this In-App Purchase option by tapping "Manage Add-ons" in the Sett
 * Corrected some minor graphical spacing issues<br>
 * Added a Turtle imprint behind the Date in posts<br>
 
-#### Latest
+#### RECENT NEWS
 
 • New Posts default to the current date<br>
 • Revamped Dark Theme<br>
 • Improved object spacing<br>
 
+`Version History`
 ## **Version 1.2**
 • Added animations to help new Artbox users get started <br>
 • Added a short vibration during profile removal warning<br>
