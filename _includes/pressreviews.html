@@ -1,0 +1,36 @@
+
+<div class="pressreviews">
+
+    <hr class="separator">
+
+    <h1 class=pressreviewHeader>Press Coverage</h1>
+
+    {% for review in site.pressreviews %}
+
+    {% if review.quote %}
+    <div class="pressreview">
+        <div class="pressreviewText">
+            <div>
+                <a href="{{ review.siteurl }}">
+                    <span class="fa-stack fa-1x">
+                        <i class="iconBack fas fa-circle fa-stack-2x"></i>
+                        <i class="iconTop fas fa-{{ review.fontawesome_icon_name }} fa-stack-1x"></i>
+                    </span>
+                </a>
+            </div>
+            <h3>
+                "{{ review.quote }}"
+            </h3>
+            <p>
+                - {{ review.author }}
+            </p>
+            <p>
+                <a href="{{ review.siteurl }}">Read on {{ review.sitename }}</a>
+            </p>
+        </div>
+    </div>
+    {% endif %}
+
+    {% endfor %}
+
+</div>
