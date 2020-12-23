@@ -73,6 +73,22 @@ features                                  :
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    
+    
+# Press Review List                       Edit, add or remove press reviews to be presented.
+pressreviews                              :
+
+  - author                                : Raheela James
+    quote                                 : It is the perfect app for the Minimalist Parent, who doesn't want any clutter.
+    sitename                              : Mommy's Business 101
+    siteurl                               : https://www.instagram.com/p/CHbfa3jjydJ/?igshid=1mjwd55c74l2c/
+    fontawesome_icon_name                 : newspaper
+    
+  - author                                : Adi Unsworth
+    quote                                 : A simple and effective artwork storage and sharing tool.
+    sitename                              : Declutter Designs
+    siteurl                               : https://www.declutterdesigns.com.au/post/saving-kids-artworks-using-an-app-four-reviews
+    fontawesome_icon_name                 : newspaper
 
 
 
