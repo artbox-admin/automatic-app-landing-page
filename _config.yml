@@ -58,9 +58,9 @@ features                                  :
     description                           : Not all projects are created equal -- easily find your favorites.
     fontawesome_icon_name                 : star
 
-  - title                                 : No Ads
-    description                           : Enjoy creating and browsing projects without disruptive ads.
-    fontawesome_icon_name                 : ad
+  - title                                 : Cut the clutter
+    description                           : Keep the art gallery on your phone, not your kitchen table
+    fontawesome_icon_name                 : images
 
   - title                                 : No Subscription
     description                           : Pay once and call it a day.
