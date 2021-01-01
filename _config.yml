@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : user-friends
     
   - title                                 : iPhone Exclusive
-    description                           : Built specifically for iOS
+    description                           : Built specifically for iOS and optimized for the latest iPhones.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
@@ -51,19 +51,19 @@ features                                  :
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Unlimited Profiles
-    description                           : Create an unlimited amount of user profiles.
+    description                           : Create an unlimited amount of private user profiles.
     fontawesome_icon_name                 : user-tag
   
   - title                                 : Favorites View
     description                           : Not all projects are created equal -- easily find your favorites.
     fontawesome_icon_name                 : star
 
-  - title                                 : Cut the clutter
-    description                           : Keep the art gallery on your phone, not your kitchen table
+  - title                                 : Multiple Images
+    description                           : Option to add multiple images per post for larger projects.
     fontawesome_icon_name                 : images
 
   - title                                 : No Subscription
-    description                           : Pay once and call it a day.
+    description                           : Unlike other apps, Artbox has no monthly subscription -- pay once and call it a day.
     fontawesome_icon_name                 : credit-card
 
   - title                                 : In-App Dark Mode
