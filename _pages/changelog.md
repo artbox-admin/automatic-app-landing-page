@@ -5,12 +5,11 @@ include_in_header: true
 ---
 
 ### `Latest Patch`
-# **Version 1.3.2**
-• NEW: Follow Artbox on social! Links added in Settings<br>
-• NEW: Access the app’s changelog by tapping Settings > What’s New<br>
-• IMPROVED: Privacy and Changelog links open in-app<br>
-• IMPROVED: Miscellaneous object spacing adjustments<br>
-• IMPROVED: Updated first-use experience<br>
+# **Version 1.3.22**
+• FIX: Graphical issue with the Home page header is resolved<br>
+• FIX: Changelog and Privacy URLs launch properly on first tap<br>
+• IMPROVEMENT: Better button handling throughout the app<br>
+• OTHER: Various under-the-hood improvements<br>
 
 ### `Latest Major Release`
 # **Version 1.3**
@@ -52,6 +51,13 @@ You can find this In-App Purchase option by tapping "Manage Add-ons" in the Sett
 <br>
 <br>
 ### `Version History`
+## **Version 1.3.2**
+• NEW: Follow Artbox on social! Links added in Settings<br>
+• NEW: Access the app’s changelog by tapping Settings > What’s New<br>
+• IMPROVED: Privacy and Changelog links open in-app<br>
+• IMPROVED: Miscellaneous object spacing adjustments<br>
+• IMPROVED: Updated first-use experience<br>
+
 ## **Version 1.3.1**
 • NEW: Fresh header design when viewing a profile. Now includes the total number of projects for that person. When viewing a profile, tap on the profile picture to make changes.<br>
 • IMPROVED: When editing a post, double-tap the image(s) to edit. This helps avoid accidental edit prompts from the previous single-tap implementation<br>
