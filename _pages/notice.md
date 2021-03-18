@@ -28,6 +28,7 @@ Not only that, but the app has been dramatically improved over Artbox Classic:
 * Much better user experience using native programming language and tools
 * Image compression allows for smaller files to be stored making the app faster
 * iCloud sync allows your app data to be backed up securely and privately to iCloud, as well as sync across devices
+* iPad is now supported with a native app that syncs with your iPhone
 * Artist Profiles can be assigned a color profile, creating a unique card for each artist
 * Widgets (new with iOS 14) are supported allowing you to feature your kids’ art projects right on your homescreen
 * And so much more
