@@ -10,9 +10,9 @@ I’m thrilled to share the next evolution of Artbox, the app that gives you a p
 
 Artbox started as a quarantine project in 2020 while my kids were creating a seemingly endless stack of drawings, “crate” boxes, and other creative projects. We wanted a way to celebrate and remember our kids’ creativity, without having to store every art project. My wife came up with the primary idea and logo, while I went to work on the app itself.
 
-The original Artbox (hereby now referred to as Artbox Classic) was released to the App Store last June exclusively for iPhone. The more we used it, and the more users the app obtained, the more opportunities for improvement were revealed. The challenge, however, is that the original Artbox app was built using a 3rd party Integrated Development Environment (IDE) which has since halted its own development. Meaning, the software used to make Artbox is no longer being maintained and supported by its parent company.
+The original Artbox (hereby now referred to as Artbox Classic) was released to the App Store last June exclusively for iPhone. The more we used it, and the more of you that used it, the more opportunities for improvement were revealed. The challenge, however, is that the original Artbox app was built using a 3rd party Integrated Development Environment (IDE) which has since halted its own development. Meaning, the software used to make Artbox is no longer being maintained and supported by its parent company.
 
-This forced me to have to rebuild Artbox from scratch, which is both good and bad news.
+Being an avid user of Artbox myself, this unfortunate news about the IDE forced me to have to rebuild Artbox from scratch. 
 
 The bad news first…
 
@@ -21,6 +21,8 @@ This is bad news because it unfortunately doesn’t allow me to be able to provi
 Here’s the good news…
 
 The good news is, in my opinion, actually great news. Without going to deep into the technical details, the new Artbox App was built entirely using a native, Apple-made IDE with Apple Code (SwiftUI) so the longevity and support lifecycle of the new Artbox will follow Apple’s very own support lifecycles. I.e., this shouldn’t ever happen again! Furthermore, building the app natively means support for new features and capabilities that come with future iOS/iPad OS versions.
+
+I will also be publishing the new Artbox App completely free for a limited time, so any users who previously purchased the app or the In-App Purchase to unlock additional photos, can the new Artbox App for no additional charge.
 
 Not only that, but the app has been dramatically improved over Artbox Classic:
 * Much better user experience using native programming language and tools
@@ -32,6 +34,6 @@ Not only that, but the app has been dramatically improved over Artbox Classic:
 
 You may be wondering what will become of Artbox Classic. At this point in time, there will be a final build of Artbox Classic, version 1.4, published to the App Store that will remain available for the foreseeable future. Artbox Classic will still be fully functional and usable, but will not receive new features or fixes. Development efforts will be going toward the new Artbox App. 
 
-I do hope you'll enjoy the all-new Artbox 2.0 and that you're as excited for the future of the app as I am. 
+Artbox was built out of a need in my own life, and I am most certainly dedicated to making it the best app possible for the job. I do hope you'll enjoy the all-new Artbox 2.0 (coming soon!) and that you're as excited for the future of the app as I am. 
 
 -Ryan
