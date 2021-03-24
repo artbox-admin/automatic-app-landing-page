@@ -78,6 +78,18 @@ features                                  :
 # Press Review List                       Edit, add or remove press reviews to be presented.
 pressreviews                              :
 
+  - author                                : Oliver Haslam
+    quote                                 : If you have young kids you really ought to check this out.
+    sitename                              : iMore
+    siteurl                               : https://www.imore.com/artbox-gives-you-somewhere-save-all-your-kids-artwork
+    fontawesome_icon_name                 : newspaper
+    
+    - author                              : Shifrah Combiths
+      quote                               : [Artbox] solves the problem of what to do with all your kids’ “masterpieces.”
+      sitename                            : Apartment Therapy
+      siteurl                             : https://www.apartmenttherapy.com/artbox-app-review-kids-art-36870551
+      fontawesome_icon_name               : newspaper
+  
   - author                                : Raheela James
     quote                                 : It is the perfect app for the Minimalist Parent, who doesn't want any clutter.
     sitename                              : Mommy's Business 101
