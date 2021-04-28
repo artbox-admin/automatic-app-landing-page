@@ -22,7 +22,7 @@ Here’s the good news…
 
 The good news is, in my opinion, actually great news. Without going to deep into the technical details, the new Artbox App was built entirely using a native, Apple-made IDE with Apple Code (SwiftUI) so the longevity and support lifecycle of the new Artbox will follow Apple’s very own support lifecycles. I.e., this shouldn’t ever happen again! Furthermore, building the app natively means support for new features and capabilities that come with future iOS/iPad OS versions.
 
-I will also be publishing the new Artbox App completely free for a limited time, so any users who previously purchased the app or the In-App Purchase to unlock additional photos, can the new Artbox App for no additional charge.
+I will also be publishing the new Artbox App completely free for a limited time, so any users who previously purchased the app or the In-App Purchase to unlock additional photos, can get the new, fully featured Artbox App for no additional charge.
 
 Not only that, but the app has been dramatically improved over Artbox Classic:
 * Much better user experience using native programming language and tools
