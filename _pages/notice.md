@@ -8,6 +8,8 @@ include_in_header: true
 
 I’m thrilled to share the next evolution of Artbox, the app that gives you a place to store your kids artwork. But first, please take note of the below notice regarding Artbox 1.x
 
+![](/assets/artbox-notice.jpg)
+
 Artbox started as a quarantine project in 2020 while my kids were creating a seemingly endless stack of drawings, “crate” boxes, and other creative projects. We wanted a way to celebrate and remember our kids’ creativity, without having to store every art project. My wife came up with the primary idea and logo, while I went to work on the app itself.
 
 The original Artbox (hereby now referred to as Artbox Classic) was released to the App Store last June exclusively for iPhone. The more we used it, and the more of you that used it, the more opportunities for improvement were revealed. The challenge, however, is that the original Artbox app was built using a 3rd party Integrated Development Environment (IDE) which has since halted its own development. Meaning, the software used to make Artbox is no longer being maintained and supported by its parent company.
