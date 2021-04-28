@@ -5,12 +5,12 @@ include_in_header: true
 ---
 
 ## Press Kit
-Click [here](https://www.icloud.com/iclouddrive/01VtnWP-zvRK7ge21Yvve91rQ#Artbox_Press_Kit) to download the full press kit with screenshots, icons, promo art, and videos.
+Click [here](https://www.icloud.com/iclouddrive/0YReE_oVk2TIUg9mpooEltpug#Artbox_2_PressKit) to download the full press kit with screenshots, icons, promo art, and videos.
 
 ### Introducing Artbox
 Artbox is just what you've been looking for--a convenient and refreshing way to keep a digital record your children's art projects. No ads. No annual subscription.
 
-![](/assets/artbox-coverflow.png)<br><br>
+![](/assets/headerimage.png)<br><br>
 
 Artbox features a clean, simple, and refreshing user experience. With a separate profile for each child, it's easy to add add new entries and view projects. 
 Use the Gallery View to browse all submitted artwork and sort by favorites.
