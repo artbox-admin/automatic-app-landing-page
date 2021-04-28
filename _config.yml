@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1516027610                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1557964462                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Do your kids create a lot of art projects? Keep the art gallery on your phone--not your kitchen table.
+app_description                           : The must-have app for parents
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -38,12 +38,12 @@ features                                  :
     description                           : We get you -- keep those special projects while keeping a decluttered house.
     fontawesome_icon_name                 : user-friends
     
-  - title                                 : iPhone Exclusive
-    description                           : Built specifically for iOS and optimized for the latest iPhones.
+  - title                                 : Apple Exclusive
+    description                           : Built specifically for iOS and iPadOS
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
-    description                           : Your data never leaves your device unless you share with 3rd party apps.
+    description                           : Privacy-focused services like iCloud and AppTelemetry mean your data is YOUR data.
     fontawesome_icon_name                 : lock
 
   - title                                 : Intuitive Design
@@ -58,17 +58,17 @@ features                                  :
     description                           : Not all projects are created equal -- easily find your favorites.
     fontawesome_icon_name                 : star
 
-  - title                                 : Multiple Images
-    description                           : Option to add multiple images per post for larger projects.
-    fontawesome_icon_name                 : images
+  - title                                 : iCloud Sync
+    description                           : Profiles and projects are automatically synced and backed up to iCloud.
+    fontawesome_icon_name                 : cloud
 
   - title                                 : No Subscription
     description                           : Unlike other apps, Artbox has no monthly subscription -- pay once and call it a day.
     fontawesome_icon_name                 : credit-card
 
-  - title                                 : In-App Dark Mode
-    description                           : Turn off the lights with the gorgeous dark mode inside Settings.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Widgets
+    description                           : Feature your kids' artwork right on your homescreen.
+    fontawesome_icon_name                 : images
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
