@@ -37,6 +37,6 @@ Not only that, but the app has been dramatically improved over Artbox Classic:
 
 You may be wondering what will become of Artbox Classic. At this point in time, there will be a final build of Artbox Classic, version 1.4, published to the App Store that will remain available for the foreseeable future. Artbox Classic will still be fully functional and usable, but will not receive new features or fixes. Development efforts will be going toward the new Artbox App. 
 
-Artbox was built out of a need in my own life, and I am most certainly dedicated to making it the best app possible for the job. I do hope you'll enjoy the all-new Artbox 2.0 (coming soon!) and that you're as excited for the future of the app as I am. 
+Artbox was built out of a need in my own life, and I am most certainly dedicated to making it the best app possible for the job. I do hope you'll enjoy the all-new Artbox 2.0 (available now!) and that you're as excited for the future of the app as I am. 
 
 -Ryan
