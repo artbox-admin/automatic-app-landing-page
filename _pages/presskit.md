@@ -5,14 +5,14 @@ include_in_header: true
 ---
 
 ## Press Kit
-Click [here](https://www.icloud.com/iclouddrive/0YReE_oVk2TIUg9mpooEltpug#Artbox_2_PressKit) to download the full press kit with screenshots, icons, promo art, and videos.
+Click [here](https://www.icloud.com/iclouddrive/0x2g6uc8_hXHCbX-v0Q0eBCEA#Artbox_2_PressKit_2) to download the full press kit with screenshots, icons, promo art, and videos.
 
 ### Introducing Artbox
-Artbox is just what you've been looking for--a convenient way to keep a digital record your children's art projects. No ads. No annual subscription.
+Artbox is the perfect app for parents, grandparents, teachers, and guardians who need a way to store digital records of their kids' arts and crafts — allowing you to declutter the physical piles.
 
-![](/assets/Artbox-summary-card.png)<br><br>
+![](/assets/promo1.png)<br><br>
 
-Artbox features a clean, simple, and refreshing user experience. With a separate profile for each child, it's easy to add add new entries and view projects. 
+Artbox features a native and refreshing user experience. With separate profiles for each artist, it's easy to add add new entries and view projects. 
 Use the Gallery View to browse all submitted artwork and sort by favorites.
 
 Add a description of each art piece and record the date it was created. Artbox will automatically display your child's age from when their masterpiece was made.
@@ -25,6 +25,8 @@ Add a description of each art piece and record the date it was created. Artbox w
 • Profiles and Projects are editable  
 • iCloud Backup / Sync  
 • iPad support  
+• Mac support  
 • Widget Support  
+• Milestones to celebrate progress along your decluttering journey
 • Automatic Light/Dark Mode based on device settings (configurable)  
-• Localization Support (English, Spanish, Dutch, French, Chinese)  
+• Localization Support (English, German, Spanish, Dutch, French, Chinese)  
