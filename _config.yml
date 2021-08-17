@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : user-friends
     
   - title                                 : Apple Exclusive
-    description                           : Built specifically for iOS and iPadOS
+    description                           : Built natively for iPhone, iPad, and Mac
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
