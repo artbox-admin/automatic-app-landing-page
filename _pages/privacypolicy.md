@@ -5,18 +5,14 @@ include_in_header: false
 ---
 
 **Last updated**  
-October 10 2020
+Sept 13 2021
+
+![](/assets/privacy-handshake-icon.png)
 
 # Privacy Policy
-Ryan Klumph built the Artbox app as a Commercial app. This Application is provided by Ryan Klumph and is intended for use as is.
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Application.
-If you choose to use my Application, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+Artbox and its developer take your privacy seriously. That is why no personally identifiable information is ever collected. Artbox does not, and never will, sell any user data. The only data that is collected is basic app usage statistics in order to help make the app better. 
 
-<br>
+When you use Artbox, you are asked to create profiles for artists and add their names, date of birth, and a profile picture. Additionally when you add projects, you enter a picture and project description. None of this data is ever collected or sent outside of your device or iCloud account. This information is yours and yours alone. If you don't want to store your Artbox data in iCloud, you must disable iCloud Sync for Artbox in your devices's settings.
 
-## 1.0 Information We Collect
-The information that Artbox requests will be retained on your device and is not collected by me in any way.
-
-### 1.1 Information from third parties
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
-
+## What data is collected
+The type of data that Artbox does collect is collected solely for improving the app. This type of data includes things like device type, iOS version, App veersion, launch count, and feature usage. This data is completely anonymous and never includes personally identifiable information. Artbox uses the privacy-conscious service [TelemetryDeck](https://telemetrydeck.com) for the agregation of this data.
