@@ -18,17 +18,19 @@ Use the Gallery View to browse all submitted artwork and sort by favorites.
 Add a description of each art piece and record the date it was created. Artbox will automatically display your child's age from when their masterpiece was made.
 
 ### App Features
-• Private profile for each artist  
-• Project Details display the child's age at the time the project was created  
-• Project Details allows for a description of the project and the child's inspiration  
-• Browse projects by individual Artist, by Favorites, or the entire Gallery  
-• Profiles and Projects are editable  
+• Private profile for each artist stored in iCloud  
+• Project Details display the artist's age at the time the project was created  
+• Project Details allows for a description of the project and the artist's inspiration  
+• Browse projects by artist, by favorites, or the entire gallery  
+• Search the gallery to easily find projects    
+• Profiles and projects are fully editable  
 • iCloud Backup / Sync  
 • iPad support  
 • Mac support  
 • Widget Support  
-• Milestones to celebrate progress along your decluttering journey
+• Milestones to celebrate progress along your decluttering journey  
 • Automatic Light/Dark Mode based on device settings (configurable)  
+• Custom App Icons    
 • Localization Support (English, German, Spanish, Dutch, French, Chinese)  
 
 If you're interested in featuring Artbox or publishing a review, please get in touch for a promo code: hello@artbox.app
