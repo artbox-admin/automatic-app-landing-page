@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Artbox Classic Notice
-include_in_header: true
+include_in_header: false
 ---
 
 # Artbox Classic Deprecation Notice
