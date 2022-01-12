@@ -34,7 +34,7 @@ Not only that, but the app has been dramatically improved over Artbox Classic. H
 * Widgets (new with iOS 14) are supported allowing you to feature your kids’ art projects right on your homescreen
 * And so much more
 
-You may be wondering what will become of Artbox Classic. At this point in time, the app will remain available for the foreseeable future as a legacy solution. Artbox Classic will still be fully functional and usable, but will not receive new features or fixes. Development efforts will be going toward Artbox 2. 
+You may be wondering what will become of Artbox Classic. It was available for free for about a year following the Artbox 2 release. However at this time (Jan 11 2022) Classic has been deprecated and removed from the App Store. Development efforts will be going toward Artbox 2. 
 
 Artbox was built out of a need in my own life, and I am most certainly dedicated to make it the best app possible for the job. I do hope you'll enjoy the all-new Artbox 2 (available now!) and that you're as excited for the future of the app as I am. 
 
