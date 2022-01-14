@@ -34,7 +34,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Made by parents, for parents
+  - title                                 : An Essential Tool
     description                           : We get you -- keep those special projects while keeping a decluttered house.
     fontawesome_icon_name                 : user-friends
     
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
-    description                           : Privacy-focused services like iCloud and AppTelemetry mean your data is YOUR data.
+    description                           : Privacy-focused services like iCloud mean your data is YOUR data.
     fontawesome_icon_name                 : lock
 
   - title                                 : Intuitive Design
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Unlimited Profiles
-    description                           : Create an unlimited amount of private user profiles.
+    description                           : Create an unlimited amount of private artist profiles.
     fontawesome_icon_name                 : user-tag
   
   - title                                 : Favorites View
@@ -67,7 +67,7 @@ features                                  :
     fontawesome_icon_name                 : credit-card
 
   - title                                 : Widgets
-    description                           : Feature your kids' artwork right on your homescreen.
+    description                           : Feature your artists' artwork right on your homescreen.
     fontawesome_icon_name                 : images
 
   - title                                 : # New Feature Title
