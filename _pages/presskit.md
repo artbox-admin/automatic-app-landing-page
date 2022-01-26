@@ -26,7 +26,8 @@ Add a description of each art piece and record the date it was created. Artbox w
 • Profiles and projects are fully editable  
 • iCloud Backup / Sync  
 • iPad support  
-• Mac support  
+• Face ID / Touch ID  
+• Mac Catalyst available  
 • Widget Support  
 • Milestones to celebrate progress along your decluttering journey  
 • Automatic Light/Dark Mode based on device settings (configurable)  
