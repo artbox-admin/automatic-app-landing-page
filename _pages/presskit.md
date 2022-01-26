@@ -34,4 +34,4 @@ Add a description of each art piece and record the date it was created. Artbox w
 • Custom App Icons    
 • Localization Support (English, German, Spanish, Dutch, French, Chinese)  
 
-If you're interested in featuring Artbox or publishing a review, please get in touch for a promo code: hello@artbox.app
+If you're interested in featuring Artbox or publishing a review, please get in touch for a promo code: [hello@artbox.app](mailto:hello@artbox.app)
