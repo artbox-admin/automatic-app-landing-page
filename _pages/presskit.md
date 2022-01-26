@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 ## Press Kit
-Click [here](https://www.icloud.com/iclouddrive/0x2g6uc8_hXHCbX-v0Q0eBCEA#Artbox_2_PressKit_2) to download the full press kit with screenshots, icons, promo art, and videos.
+Click [here](https://www.icloud.com/iclouddrive/0462NVPZbQWJZ_8EvJk4FbGyg#Artbox_PressKit_) to download the full press kit with screenshots, icons, promo art, and videos.
 
 ### Introducing Artbox
 Artbox is the perfect app for parents, grandparents, teachers, and guardians who need a way to store digital records of their kids' arts and crafts — allowing you to declutter the physical piles.
