@@ -64,7 +64,7 @@ features                                  :
 
   - title                                 : Security
     description                           : Lock your app with biometric authentication.
-    fontawesome_icon_name                 : face-viewfinder
+    fontawesome_icon_name                 : fingerprint
 
   - title                                 : Widgets
     description                           : Feature your artists' artwork right on your homescreen.
