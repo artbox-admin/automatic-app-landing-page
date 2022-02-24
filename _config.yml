@@ -62,9 +62,9 @@ features                                  :
     description                           : Profiles and projects are automatically synced and backed up to iCloud.
     fontawesome_icon_name                 : cloud
 
-  - title                                 : No Subscription
-    description                           : Unlike other apps, Artbox has no monthly subscription -- pay once and call it a day.
-    fontawesome_icon_name                 : credit-card
+  - title                                 : Security
+    description                           : Lock your app with biometric authentication.
+    fontawesome_icon_name                 : face-viewfinder
 
   - title                                 : Widgets
     description                           : Feature your artists' artwork right on your homescreen.
