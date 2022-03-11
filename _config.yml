@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
-    description                           : Privacy-focused services like iCloud mean your data is YOUR data.
+    description                           : No personally identifiable information is ever collected.
     fontawesome_icon_name                 : lock
 
   - title                                 : Intuitive Design
