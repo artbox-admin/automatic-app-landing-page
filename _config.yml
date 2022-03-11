@@ -19,8 +19,8 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Ryan                                
-your_link                                 :                      
+your_name                                 : rakTech LLC                                
+your_link                                 : https://raktech.app                     
 your_city                                 : the USA                                
 email_address                             : hello@artbox.app
 facebook_username                         :                                           
@@ -59,15 +59,15 @@ features                                  :
     fontawesome_icon_name                 : star
 
   - title                                 : iCloud Sync
-    description                           : Profiles and projects are automatically synced and backed up to iCloud.
+    description                           : Profiles and projects are automatically synced and backed up to iCloud (Pro)
     fontawesome_icon_name                 : cloud
 
   - title                                 : Security
-    description                           : Lock your app with biometric authentication.
+    description                           : Lock your app with biometric authentication (Pro)
     fontawesome_icon_name                 : fingerprint
 
   - title                                 : Widgets
-    description                           : Feature your artists' artwork right on your homescreen.
+    description                           : Feature your artists' work right on your homescreen.
     fontawesome_icon_name                 : images
 
   - title                                 : # New Feature Title
