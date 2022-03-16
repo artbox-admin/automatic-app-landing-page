@@ -40,6 +40,7 @@ Add a description of each art piece and record the date it was created. Artbox w
 ![](/assets/promo1.png)<br><br>
 
 ### Feature Breakdown
+
 | Feature | Basic | Pro |
 | --- | --- | --- |
 | Unlimited Profiles | * | * |
