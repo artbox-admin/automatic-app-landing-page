@@ -6,7 +6,7 @@ include_in_header: true
 
 # Press Kit
 
-### Introducing Artbox 2.7 [Coming Spring 2022]
+### Announcing Artbox 2.7 [Coming Spring 2022]
 Knitting, building, painting, coloring, crocheting, sketching, glassmaking, dressmaking, architecting or educating... Whatever you're into, Artbox keeps the memories alive.
 
 Whether you're an artist wanting to document your sketches and paintings, a creator needing to capture your knitting and crocheting creations, or a parent who has creative kids at home, Artbox is the quintessential app for crafting memories. 
