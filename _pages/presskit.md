@@ -4,8 +4,7 @@ title: Press Kit
 include_in_header: true
 ---
 
-## Press Kit
-Click [here](https://www.icloud.com/iclouddrive/0462NVPZbQWJZ_8EvJk4FbGyg#Artbox_PressKit_) to download the full press kit with screenshots, icons, promo art, and videos.
+# Press Kit
 
 ### Introducing Artbox 2.7 [Coming Spring 2022]
 Knitting, building, painting, coloring, crocheting, sketching, glassmaking, dressmaking, architecting or educating... Whatever you're into, Artbox keeps the memories alive.
@@ -40,6 +39,7 @@ Add a description of each art piece and record the date it was created. Artbox w
 
 ![](/assets/promo1.png)<br><br>
 
+### Feature Breakdown
 | Feature | Basic | Pro |
 | --- | --- | --- |
 | Unlimited Profiles | * | * |
