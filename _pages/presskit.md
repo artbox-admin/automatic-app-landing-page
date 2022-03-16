@@ -53,8 +53,8 @@ Add a description of each art piece and record the date it was created. Artbox w
 | iCloud Sync & Backup |  | * |
 | Additional Color Profiles |  | * |
 | Custom Icons |  | * |
-| Touch ID / Face ID |  | * |  
-
+| Touch ID / Face ID |  | * |
+  
 ![](/assets/promo4.jpg)<br><br>
 
 ### App Store Details
