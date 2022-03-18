@@ -7,16 +7,16 @@ include_in_header: true
 # Press Kit
 
 ### Announcing Artbox 2.7 [Coming Spring 2022]
-Knitting, building, painting, coloring, crocheting, sketching, glassmaking, dressmaking, architecting or educating... Whatever you're into, Artbox keeps the memories alive.
 
-Whether you're an artist wanting to document your sketches and paintings, a creator needing to capture your knitting and crocheting creations, or a parent who has creative kids at home, Artbox is the quintessential app for crafting memories. 
+Artbox is the stand-out solution for documenting arts and crafts. Whether you’re an artist wanting to document your sketches and paintings, a creator needing to capture your knitting and crocheting creations, or a parent who has creative kids at home, Artbox is the quintessential app for crafting memories.
 
 ![](/assets/promo6.png)<br><br>
 
-Artbox features a native and refreshing user experience. With separate profiles for each artist, it's easy to add add new entries and view projects. 
-Use the Gallery View to browse all submitted artwork and sort by favorites.
+Get started by adding your artist profiles. You can add as many as you'd like! Then you can start adding projects to populate your gallery. 
 
-Add a description of each art piece and record the date it was created. Artbox will automatically display the artist's age from when their masterpiece was made.
+Artbox features a native and refreshing user experience. There is no limit on how many projects you can add. You can easily find your favorites or search for projects by keyword. 
+
+Add a description of each art piece and record the date it was created. Artbox will automatically display the artist's age from when their masterpiece was made (configurable).
 
 ### App Features
 • Private profile for each artist  
