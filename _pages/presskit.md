@@ -6,7 +6,7 @@ include_in_header: true
 
 # Press Kit
 
-### Announcing Artbox 2.7 [Coming Spring 2022]
+### Artbox - Crafting Memories
 
 Artbox is the stand-out solution for documenting arts and crafts. Whether you’re an artist wanting to document your sketches and paintings, a creator needing to capture your knitting and crocheting creations, or a parent who has creative kids at home, Artbox is the quintessential app for crafting memories.
 
@@ -55,8 +55,37 @@ Add a description of each art piece and record the date it was created. Artbox w
 | Additional Color Profiles |  | * |
 | Custom Icons |  | * |
 | Touch ID / Face ID |  | * |
+
+Artbox Pro offers the best user experience and is available in 3 flavors:
+
+1. $0.99 / month
+2. $9.99 / year
+3. One-time payment of $24.99 for a Lifetime Subscription  
   
 ![](/assets/promo4.jpg)<br><br>
+
+### App Screenshots
+<p float="left">
+<img src="/assets/screen-1.png" width="300" />
+<img src="/assets/screen-2.png" width="300" />
+</p>
+<p float="left">
+<img src="/assets/screen-5.png" width="300" />
+<img src="/assets/screen-6.png" width="300" />
+</p>
+<p float="left">
+<img src="/assets/screen-11.png" width="300" />
+<img src="/assets/screen-8.png" width="300" />
+</p>
+<p float="left">
+<img src="/assets/screen-9.png" width="300" />
+<img src="/assets/screen-3.png" width="300" />
+</p>
+<p float="left">
+<img src="/assets/screen-4.png" width="300" />
+<img src="/assets/screen-10.png" width="300" />
+</p>
+
 
 ### App Store Details
 **Apple App ID:** 1557964462  
