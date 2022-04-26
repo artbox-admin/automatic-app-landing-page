@@ -89,6 +89,12 @@ pressreviews                              :
     sitename                              : Apartment Therapy
     siteurl                               : https://www.apartmenttherapy.com/artbox-app-review-kids-art-36870551
     fontawesome_icon_name                 : newspaper
+    
+  - author                                : Andrew O'Hara
+    quote                                 : I love that so many features are available entirely for free
+    sitename                              : Fueled
+    siteurl                               : https://fueled.com/blog/artbox-helps-digitize-childs-creations/
+    fontawesome_icon_name                 : newspaper
   
   - author                                : Raheela James
     quote                                 : It is the perfect app for the Minimalist Parent, who doesn't want any clutter.
