@@ -66,24 +66,24 @@ Artbox Pro offers the best user experience and is available in 3 flavors:
 
 ### App Screenshots
 <p float="left">
-<img src="/assets/screen-1.png" width="300" />
-<img src="/assets/screen-2.png" width="300" />
+<img src="/assets/1.png" width="300" />
+<img src="/assets/2.png" width="300" />
 </p>
 <p float="left">
-<img src="/assets/screen-5.png" width="300" />
-<img src="/assets/screen-6.png" width="300" />
+<img src="/assets/5.png" width="300" />
+<img src="/assets/6.png" width="300" />
 </p>
 <p float="left">
-<img src="/assets/screen-11.png" width="300" />
-<img src="/assets/screen-8.png" width="300" />
+<img src="/assets/11.png" width="300" />
+<img src="/assets/8.png" width="300" />
 </p>
 <p float="left">
-<img src="/assets/screen-9.png" width="300" />
-<img src="/assets/screen-3.png" width="300" />
+<img src="/assets/9.png" width="300" />
+<img src="/assets/3.png" width="300" />
 </p>
 <p float="left">
-<img src="/assets/screen-4.png" width="300" />
-<img src="/assets/screen-10.png" width="300" />
+<img src="/assets/4.png" width="300" />
+<img src="/assets/10.png" width="300" />
 </p>
 
 
