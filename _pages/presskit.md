@@ -8,11 +8,11 @@ include_in_header: true
 
 ### Artbox - Crafting Memories
 
-Artbox is the stand-out solution for documenting arts and crafts. Whether you’re an artist wanting to document your sketches and paintings, a creator needing to capture your knitting and crocheting creations, or a parent who has creative kids at home, Artbox is the quintessential app for crafting memories.
+Artbox is the stand-out solution for digitall securing arts and crafts. Whether you’re an artist wanting to document your sketches and paintings, a creator needing to capture your knitting and crocheting creations, or a parent who has creative kids at home, Artbox is the best app for crafting memories.
 
 ![](/assets/promo6.png)<br><br>
 
-Get started by adding your artist profiles. You can add as many as you'd like! Then you can start adding projects to populate your gallery. 
+Get started by adding and customizing your artist profiles. Then you can start adding projects to populate your gallery. 
 
 Artbox features a native and refreshing user experience. There is no limit on how many projects you can add. You can easily find your favorites or search for projects by keyword. 
 
@@ -25,17 +25,16 @@ Add a description of each art piece and record the date it was created. Artbox w
 • Browse projects by artist, by favorites, or the entire gallery  
 • Search the gallery to easily find projects    
 • Profiles and projects are fully editable  
-• iCloud Sync & Backup*  
+• iCloud Sync & Backup  
 • iPad support  
-• Face ID / Touch ID*  
+• Face ID / Touch ID  
 • Mac Catalyst available  
 • Widget Support  
 • Milestones to celebrate your progress  
 • Automatic Light/Dark Mode based on device settings (configurable)  
-• Custom App Icons*    
+• Custom App Icons    
+• Full app data export  
 • Localization Support (English, German, Spanish, Dutch, French, Chinese)  
-
-**Requires an Artbox Pro Subscription, or a one-time payment for Lifetime sub.*  
 
 ![](/assets/promo1.png)<br><br>
 
@@ -51,7 +50,8 @@ Add a description of each art piece and record the date it was created. Artbox w
 | Multiple Photos per Project |  | * (up to 4) |
 | Widgets | * | * | 
 | Color-Matched Widgets |  | * |
-| iCloud Sync & Backup |  | * |
+| iCloud Sync & Backup | * |  |
+| iCloud Sharing |  | * |
 | Additional Color Profiles |  | * |
 | Custom Icons |  | * |
 | Touch ID / Face ID |  | * |
@@ -60,7 +60,8 @@ Artbox Pro offers the best user experience and is available in 3 flavors:
 
 1. $0.99 / month
 2. $9.99 / year
-3. One-time payment of $24.99 for a Lifetime Subscription  
+3. One-time payment of $24.99 for a Lifetime Pass (Single-user)  
+4. One-time payment of $49.99 for a Lifetime Pass (Family Sharing)  
   
 ![](/assets/promo4.jpg)<br><br>
 
