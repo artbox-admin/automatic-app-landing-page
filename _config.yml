@@ -35,7 +35,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : An Essential Tool
-    description                           : We get you -- keep those special projects while keeping a decluttered house.
+    description                           : We get you -- keep those special projects while keeping a decluttered house
     fontawesome_icon_name                 : user-friends
     
   - title                                 : Apple Exclusive
@@ -43,31 +43,31 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Privacy First
-    description                           : No personally identifiable information is ever collected.
+    description                           : No personally identifiable information is ever collected
     fontawesome_icon_name                 : lock
 
   - title                                 : Intuitive Design
-    description                           : Built for ease of use and simple navigation.
+    description                           : Built for ease of use and simple navigation
     fontawesome_icon_name                 : thumbs-up
 
   - title                                 : Unlimited Profiles
-    description                           : Create an unlimited amount of private artist profiles.
+    description                           : Create an unlimited amount of private artist profiles
     fontawesome_icon_name                 : user-tag
   
   - title                                 : Favorites View
-    description                           : Not all projects are created equal -- easily find your favorites.
+    description                           : Not all projects are created equal -- easily find your favorites
     fontawesome_icon_name                 : star
 
   - title                                 : iCloud Sync
-    description                           : Profiles and projects are automatically synced and backed up to iCloud (Pro)
+    description                           : Profiles and projects are automatically synced and backed up to iCloud
     fontawesome_icon_name                 : cloud
 
   - title                                 : Security
-    description                           : Lock your app with biometric authentication (Pro)
+    description                           : Lock your app with biometric authentication
     fontawesome_icon_name                 : fingerprint
 
   - title                                 : Widgets
-    description                           : Feature your artists' work right on your homescreen.
+    description                           : Feature your artists' work right on your homescreen
     fontawesome_icon_name                 : images
 
   - title                                 : # New Feature Title
@@ -81,7 +81,7 @@ pressreviews                              :
   - author                                : Oliver Haslam
     quote                                 : If you have young kids you really ought to check this out.
     sitename                              : iMore
-    siteurl                               : https://www.imore.com/artbox-gives-you-somewhere-save-all-your-kids-artwork
+    siteurl                               : https://www.imore.com/massive-artbox-update-adds-40-new-features-improvements-saving-family-artwork
     fontawesome_icon_name                 : newspaper
     
   - author                                : Shifrah Combiths
