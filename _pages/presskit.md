@@ -42,11 +42,11 @@ Add a description of each art piece and record the date it was created. Artbox w
 
 | Feature | Basic | Pro |
 | --- | --- | --- |
-| Unlimited Profiles | * | * |
+| Unlimited Profiles |  | * |
 | Unlimited Projects | * | * |
 | Configurable Text Overlays | * | * |
 | Metadata Export | * | * |
-| Share Individual Projects | * | * |
+| Additional Project Photos |  | * |
 | Multiple Photos per Project |  | * (up to 4) |
 | Widgets | * | * | 
 | Color-Matched Widgets |  | * |
