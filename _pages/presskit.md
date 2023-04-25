@@ -42,17 +42,18 @@ Add a description of each art piece and record the date it was created. Artbox w
 
 | Feature | Basic | Pro |
 | --- | --- | --- |
-| Unlimited Profiles |  | * |
 | Unlimited Projects | * | * |
 | Configurable Text Overlays | * | * |
-| Metadata Export | * | * |
-| Additional Project Photos |  | * |
-| Multiple Photos per Project |  | * (up to 4) |
+| iCloud Sync & Backup | * | * |
 | Widgets | * | * | 
+| Calculate Artist Age per Project | * | * |
+| Project Timeline Chart | * | * |
+| Metadata Export | * | * |
+| Unlimited Profiles |  | * |
+| Multiple Photos per Project |  | * (up to 4) |
 | Color-Matched Widgets |  | * |
-| iCloud Sync & Backup | * |  |
 | iCloud Sharing |  | * |
-| Additional Color Profiles |  | * |
+| Additional Profile Themes |  | * |
 | Custom Icons |  | * |
 | Touch ID / Face ID |  | * |
 
