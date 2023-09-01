@@ -3,7 +3,7 @@ layout: page
 title: Important Update Regarding Artbox's Future on Mac
 include_in_header: false
 ---
-
+# Important Update Regarding Artbox's Future on Mac
 ![](/assets/artbox-macos.png)
 
 Ryan here - the owner and developer of rakTech LLC apps for iOS. As a user of my own creations, I'm committed to providing the very best possible experience on iOS. Today, I'd like to share an important update regarding the future of Artbox on the Mac platform.
@@ -19,7 +19,7 @@ I understand that change can be unsettling, but I believe that this move will re
 
 Thank you for your trust and loyalty as a valued member of the Artbox community. If you have any questions or concerns, please don't hesitate to reach out to me. We are here to assist you every step of the way.
 
-Sincerely,
-Ryan
-
+Sincerely,  
+Ryan  
+  
 [Email Ryan @ Artbox](mailto:hello@artbox.app)
