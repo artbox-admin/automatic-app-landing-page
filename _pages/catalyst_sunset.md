@@ -6,6 +6,8 @@ include_in_header: false
 # Important Update Regarding Artbox's Future on Mac
 ![](/assets/artbox-macos.png)
 
+**Sept 1, 2023**   
+
 Ryan here - the owner and developer of rakTech LLC apps for iOS. As a user of my own creations, I'm committed to providing the very best possible experience for the rakTech family of apps. Today, I'd like to share an important update regarding the future of Artbox on the Mac platform.
 
 As part of my ongoing efforts to enhance user experience and streamline development, I'm announcing the deprecation of the Mac Catalyst version of Artbox. I want to assure you that this decision was made with careful consideration and the ultimate goal of providing you with a more seamless and consistent experience across all your devices.
