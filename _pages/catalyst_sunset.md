@@ -23,5 +23,4 @@ Thank you for your trust and loyalty as a valued member of the Artbox community.
 
 Sincerely,  
 Ryan  
-  
-[Email Ryan @ Artbox](mailto:hello@artbox.app)
+*hello@artbox.app*
