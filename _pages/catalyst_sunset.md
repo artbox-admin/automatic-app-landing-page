@@ -6,12 +6,12 @@ include_in_header: false
 # Important Update Regarding Artbox's Future on Mac
 ![](/assets/artbox-macos.png)
 
-Ryan here - the owner and developer of rakTech LLC apps for iOS. As a user of my own creations, I'm committed to providing the very best possible experience on iOS. Today, I'd like to share an important update regarding the future of Artbox on the Mac platform.
+Ryan here - the owner and developer of rakTech LLC apps for iOS. As a user of my own creations, I'm committed to providing the very best possible experience for the rakTech family of apps. Today, I'd like to share an important update regarding the future of Artbox on the Mac platform.
 
 As part of my ongoing efforts to enhance user experience and streamline development, I'm announcing the deprecation of the Mac Catalyst version of Artbox. I want to assure you that this decision was made with careful consideration and the ultimate goal of providing you with a more seamless and consistent experience across all your devices.
 
 ### What does this mean for you? 
-The Mac Catalyst version of the app will no longer receive updates and will be gradually phased out. However, I am thrilled to inform you that you can continue enjoying Artbox on your Macbook by using the 'Designed for iPad' version. This version has been optimized to provide you with a superior experience on newer Macbooks, ensuring a more uniform and user-friendly interface.
+The Mac Catalyst version of the app will no longer receive updates and will be gradually phased out. However, I am thrilled to inform you that you can continue enjoying Artbox on your Macbook by using the **Designed for iPad** version. This version has been optimized to provide you with a superior experience on newer Macbooks, ensuring a more uniform and user-friendly interface.
 
 The transition is designed to be as smooth as possible. You can simply download the 'Designed for iPad' app from the App Store and enjoy all the features you've come to love, now with even better performance and a familiar experience on your Macbook.
 
